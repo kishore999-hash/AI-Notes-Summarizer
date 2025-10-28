@@ -1,0 +1,4 @@
+streamlit==1.39.0
+transformers==4.45.1
+torch
+pdfplumber==0.11.0

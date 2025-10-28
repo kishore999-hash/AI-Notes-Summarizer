@@ -1,0 +1,21 @@
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore model/cache files
+*.bin
+*.pt
+*.h5
+*.pkl
+
+# Ignore Streamlit & system files
+.DS_Store
+.idea/
+.vscode/
+*.log
